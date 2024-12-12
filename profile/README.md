@@ -15,4 +15,4 @@ We love science and create scientific cheat sheets for physics and maths.
 
 Everything else we'll see.
 
-### © 2024 Poimora Science. All rights reserved.
+**© 2024 Poimora Science. All rights reserved.**
