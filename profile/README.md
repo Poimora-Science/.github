@@ -11,5 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We love science and create scientific cheat sheets for physics and maths. Everything else we'll see.
-© 2024 Poimora Science. All rights reserved.
+We love science and create scientific cheat sheets for physics and maths.
+
+Everything else we'll see.
+
+### © 2024 Poimora Science. All rights reserved.
